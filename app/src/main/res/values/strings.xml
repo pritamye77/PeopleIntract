@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">People Intract</string>
+    <string name="Declined">Member Rejected</string>
+    <string name="Accepted">Member Accepted</string>
+    <string name="splash_name">People Intract</string>
+    <string name="location">Location</string>
+    <string name="gender">Gender</string>
+    <string name="Age">Age</string>
+    <string name="name">Name</string>
+    <string name="Message">Message</string>
+</resources>
